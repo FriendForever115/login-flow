@@ -1,6 +1,6 @@
 # Login Flow
 
-This application demonstrates what a React.js based register/login workflow might look like on the Frontend. I used my [react-boilerplate](https://github.com/mxstbr/react-boilerplate) as a starting point — the app thus uses  Redux, PostCSS, react-router, ServiceWorker, AppCache, bcrypt and lots more.
+This application demonstrates what a React.js based register/login workflow might look like on the Frontend. I used my [react-boilerplate](https://github.com/FriendForever115/react-boilerplate) as a starting point — the app thus uses  Redux, PostCSS, react-router, ServiceWorker, AppCache, bcrypt and lots more.
 
 The default username is `AzureDiamond` and the default password is `hunter2`, but feel free to register new users! The registered users are saved to localStorage, so they'll persist across page reloads.
 
@@ -28,7 +28,7 @@ To change it to real authentication, you’d only have to import `request.js` in
 
 ## Getting started
 
-1. Clone this repo using `git clone git@github.com:mxstbr/login-flow`.
+1. Clone this repo using `git clone git@github.com:FriendForever115/login-flow`.
 
 2. Run `npm install` to install the dependencies.
 
